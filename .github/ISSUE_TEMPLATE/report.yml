@@ -1,7 +1,7 @@
 
 name: "[简体中文] 报告漏洞/问题"
 description: "反馈报告漏洞/问题"
-labels: ["bug", "help wanted"]
+labels: ["bug", "question"]
 body:
 - type: markdown
   attributes:
